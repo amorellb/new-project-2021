@@ -1,0 +1,22 @@
+{
+  "name": "new-project-2021",
+  "version": "1.0.0",
+  "description": "This is a Dummy Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amorellb/new-project-2021.git"
+  },
+  "author": "amorellb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amorellb/new-project-2021/issues"
+  },
+  "homepage": "https://github.com/amorellb/new-project-2021#readme",
+  "dependencies": {
+    "html-validate": "^6.0.2"
+  }
+}
